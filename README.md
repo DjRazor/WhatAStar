@@ -1,0 +1,2 @@
+# WhatAStar
+What a star.
